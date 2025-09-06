@@ -7,10 +7,8 @@
 
 ## 🚀 About Me
 
-- 💻 Самоучка. Пишу код, пока остальные спорят о фреймворках.
-- 🐍 Python — мой основной инструмент (и оружие массового поражения).
-- 🦾 Вдохновляюсь ленью — автоматизирую всё, что можно (и нельзя).
-- 📫 Пиши в ТГ → **[@KerikushK](https://t.me/KerikushK)** — если не ночью и без “чо это делает?”.
+- 🐍 Python — мой основной инструмент.
+- 📫 ТГ → **[@KerikushK](https://t.me/KerikushK)**
 
 ---
 
@@ -23,20 +21,17 @@
 `requests` • `telebot` • `sqlite3` • `BeautifulSoup` • `asyncio` • `time.sleep(1000)` 😴
 
 **ОС:**  
-Linux (потому что терминал — мой дом) • иногда Windows (потому что жизнь — боль)
+Windows
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Стата
+![Kilix's GitHub stats](https://github-readme-stats.vercel.app/api?username=KilixKilik&show_icons=true&theme=radical)
 
-![Kilix's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kilix&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kilix&layout=compact&theme=radical)
-
----
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KilixKilik&layout=compact&theme=radical)
 
 ---
 
-> 🖤 Сделано с любовью, матом и бесконечными перезапусками.  
+
+---
 > Ты уже №{COUNTER} кто сюда заглянул — я в курсе 😉
