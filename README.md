@@ -18,20 +18,24 @@
 ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Инструменты:**  
-`requests` • `telebot` • `sqlite3` • `BeautifulSoup` • `asyncio` • `time.sleep(1000)` 😴
+![Requests](https://img.shields.io/badge/Requests-HTTP-ff69b4?style=flat-square&logo=python&logoColor=white)  
+![PyTelegramBotAPI](https://img.shields.io/badge/Telebot-Bot_Framework-2CA5E0?style=flat-square&logo=telegram&logoColor=white)  
+![SQLite](https://img.shields.io/badge/SQLite-Database-003B57?style=flat-square&logo=sqlite&logoColor=white)  
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-HTML_Parser-55acee?style=flat-square&logo=python&logoColor=white)  
+![AsyncIO](https://img.shields.io/badge/AsyncIO-Concurrency-8A2BE2?style=flat-square&logo=python&logoColor=white)  
+![Sleep](https://img.shields.io/badge/time.sleep(∞)-Chill_Mode-777777?style=flat-square&logo=github&logoColor=white)
 
 **ОС:**  
-Windows
+![Windows](https://img.shields.io/badge/Windows-11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
 
 ## 📊 Стата
-![Kilix's GitHub stats](https://github-readme-stats.vercel.app/api?username=KilixKilik&show_icons=true&theme=radical)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KilixKilik&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KilixKilik&layout=compact&theme=radical)
 
 ---
 
-
----
-> Ты уже №{COUNTER} кто сюда заглянул — я в курсе 😉
+> 👁️ Ты уже №{COUNTER} кто сюда заглянул — я в курсе 😉
