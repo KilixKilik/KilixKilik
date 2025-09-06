@@ -1,6 +1,6 @@
 # 👋 Yo, I'm Kilix  
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Kilix&label=PROFILE+VIEWS&color=ff69b4&style=flat-square)](https://github.com/Kilix)
+[![Profile Views](https://komarev.com/ghpvc/?username=KilixKilik&label=PROFILE+VIEWS&color=ff69b4&style=flat-square)](https://github.com/Kilix)
 [![Telegram](https://img.shields.io/badge/Telegram-@KerikushK-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/KerikushK)
 
 ---
