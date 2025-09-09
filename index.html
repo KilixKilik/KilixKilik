@@ -213,17 +213,6 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KilixKilik&layout=compact&theme=radical" alt="Top Languages"/>
       </div>
     </div>
-
-    <div class="counter">
-      👁️ Ты уже №<span id="visitor-counter">...</span> кто сюда заглянул — я в курсе 😉
-    </div>
-
-    <div class="footer">
-      Сделано с ❤️ и <code>time.sleep(∞)</code> — для тех, кто понимает.
-    </div>
-
-  </div>
-
   <script>
     document.addEventListener('DOMContentLoaded', () => {
       let count = localStorage.getItem('visitorCount') || 0;
@@ -231,7 +220,6 @@
       localStorage.setItem('visitorCount', count);
       document.getElementById('visitor-counter').textContent = count.toLocaleString();
 
-      document.getElementById('profile-views').textContent = `👁️ ${Math.floor(Math.random() * 1000) + 500}+`;
     });
   </script>
 </body>
