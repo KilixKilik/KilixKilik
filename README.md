@@ -26,7 +26,7 @@
 ![Sleep](https://img.shields.io/badge/time.sleep(∞)-Chill_Mode-777777?style=flat-square&logo=github&logoColor=white)
 
 **ОС:**  
-![Windows](https://img.shields.io/badge/Windows-10-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/ru-ru/software-download/windows10)
+![Windows](https://img.shields.io/badge/Windows-10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
 
