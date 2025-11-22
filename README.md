@@ -1,7 +1,7 @@
 # Привет я Kilix \ kerikush \ karkusha
 
 [![Profile Views](https://komarev.com/ghpvc/?username=KilixKilik&label=PROFILE+VIEWS&color=ff69b4&style=flat-square)](https://github.com/KilixKilik)
-[![Telegram](https://img.shields.io/badge/Telegram-@KerikushK-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/KerikushK)
+[![Telegram](https://img.shields.io/badge/Telegram-@K2rkusha-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/K2rkusha)
 
 ---
 
