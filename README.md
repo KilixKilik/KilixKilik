@@ -8,7 +8,7 @@
 ## 🚀 About Me
 
 - 🐍 Python — мой основной инструмент.
-- 📫 ТГ → **[@KerikushK](https://t.me/KerikushK)**
+- 📫 ТГ → **[@K2rkusha](https://t.me/K2rkusha)**
 
 ---
 
@@ -26,8 +26,7 @@
 ![Sleep](https://img.shields.io/badge/time.sleep(∞)-Chill_Mode-777777?style=flat-square&logo=github&logoColor=white)
 
 **ОС:**  
-![Windows](https://img.shields.io/badge/Windows-10-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/KilixKilik)
-
+![Windows](https://img.shields.io/badge/Windows-10-0078D6?style=for-the-badge&logo=windows&logoColor=white)]
 ---
 
 ## 📊 Стата
