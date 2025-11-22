@@ -2,7 +2,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=KilixKilik&label=PROFILE+VIEWS&color=ff69b4&style=flat-square)](https://github.com/KilixKilik)
 [![Telegram](https://img.shields.io/badge/Telegram-@K2rkusha-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/K2rkusha)
-![Discord](https://img.shields.io/badge/Discord-kerikush__-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-kerikush_-5865F2?style=flat-square&logo=discord&logoColor=white)
 
 
 ---
