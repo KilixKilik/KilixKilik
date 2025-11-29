@@ -22,7 +22,7 @@
 
 **Инструменты:**  
 ![Requests](https://img.shields.io/badge/Requests-HTTP-ff69b4?style=flat-square&logo=python&logoColor=white)  
-![PyTelegramBotAPI](https://img.shields.io/badge/Telebot-Bot_Framework-2CA5E0?style=flat-square&logo=telegram&logoColor=white)  
+![Telebot](https://img.shields.io/badge/Telebot-Bot_Framework-2CA5E0?style=flat-square&logo=telegram&logoColor=white)  
 ![SQLite](https://img.shields.io/badge/SQLite-Database-003B57?style=flat-square&logo=sqlite&logoColor=white)  
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-HTML_Parser-55acee?style=flat-square&logo=python&logoColor=white)  
 ![AsyncIO](https://img.shields.io/badge/AsyncIO-Concurrency-8A2BE2?style=flat-square&logo=python&logoColor=white)  
