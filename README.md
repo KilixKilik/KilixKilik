@@ -10,6 +10,7 @@
 ## 🚀 Обо мне
 
 - 📫 ТГ → **[@K2rkusha](https://t.me/K2rkusha)**
+- 📫 ТГК → **[@KilixKilikGIT](https://t.me/KilixKilikGIT)**
 
 ---
 
